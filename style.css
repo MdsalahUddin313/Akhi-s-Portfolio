@@ -1,0 +1,97 @@
+.font-playfair-display {
+    font-family: 'Playfair Display', serif;
+}
+
+.font-Rancho {
+    font-family: 'Rancho', cursive;
+}
+
+.text_lighter {
+    color: hotpink;
+}
+
+body {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+.name {
+    font-size: 25px;
+}
+
+.mypic {
+    width: 100%;
+    padding: 40px;
+    margin: auto;
+}
+
+.My-portfolio-button {
+    color: white;
+    margin: Auto;
+    font-size: 30px;
+    padding: 50px 45px;
+    text-decoration: none;
+}
+
+.button {
+    color: white;
+    margin: auto;
+    font-size: 30px;
+    padding: 50px 45px;
+    text-decoration: none;
+}
+
+.b1 {
+    margin: 10px;
+}
+
+section {
+    margin-bottom: 100px;
+}
+
+.link {
+    text-decoration: none;
+    color: white;
+    text-decoration-line: none;
+}
+
+.carosal_part {
+    width: 100%;
+}
+
+#slide1 {
+    color: cornflowerblue;
+}
+
+.carosol {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+
+.second-part {
+    background-image: url(images/biography-bg.png);
+}
+
+.button_part {
+    background-image: url(images/biography-bg.png);
+}
+
+.header {
+    margin-top: 100px;
+    font-family: 'Lobster', cursive;
+    margin-bottom: 80px;
+}
+
+.hajj {
+    width: 10%;
+}
+
+footer {
+    font-size: 12px;
+    color: gray;
+    text-align: center;
+}
+
+.shadow {
+    box-shadow: 4px 4px 10px 7px gray;
+}
